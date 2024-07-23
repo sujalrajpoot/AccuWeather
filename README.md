@@ -100,7 +100,7 @@ python AccuWeather.py
 
 ```bash
 Clone the repository:
-git clone https://github.com/sujalrajpoot/AccuWeather.gi
+git clone https://github.com/sujalrajpoot/AccuWeather.git
 
 Install the required packages: 
 pip install requests beautifulsoup4
